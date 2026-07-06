@@ -1,0 +1,11 @@
+{
+    "id": "append-tags",
+    "name": "Append Tags",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Create a command per tag to append/toggle it on the current line. Works great with the Tasks plugin.",
+    "author": "",
+    "authorUrl": "",
+    "fundingUrl": "",
+    "isDesktopOnly": false
+}
